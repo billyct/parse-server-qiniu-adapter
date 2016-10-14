@@ -1,0 +1,3 @@
+# parse-server-qiniu-adapter
+
+貌似这个server端的图片处理并没有多大的意义，一般图片直接从form上传，然后再用parse的webhook来做回调就好了

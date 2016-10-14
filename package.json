@@ -1,0 +1,32 @@
+{
+  "name": "parse-server-qiniu-adapter",
+  "version": "1.0.0",
+  "description": "parse-server adapter for qiniu",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billyct/parse-server-qiniu-adapter.git"
+  },
+  "keywords": [
+    "parse-server-qiniu",
+    "parse-server-qiniu-adapter",
+    "qiniu",
+    "parse-server"
+  ],
+  "author": "billyct",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/billyct/parse-server-qiniu-adapter/issues"
+  },
+  "homepage": "https://github.com/billyct/parse-server-qiniu-adapter#readme",
+  "devDependencies": {
+    "ava": "^0.16.0",
+    "xo": "^0.17.0"
+  },
+  "dependencies": {
+    "qiniu": "^6.1.13"
+  }
+}
